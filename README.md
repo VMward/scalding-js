@@ -1,5 +1,5 @@
 # scalding
-Scalding - functional data processing using based off Scala & Hadoop
+Scalding - functional data processing in JS based off Scala & Hadoop
 
 [![npm Version](https://img.shields.io/badge/npm-1.0.0-3775A9?style=plastic&logo=npm)](https://www.npmjs.com/package/scalding)
 [![Code Coverage](https://img.shields.io/badge/CodeCoverage-99p-F01F7A?style=plastic&logo=CodeCov)](https://github.com/social-learning/scalding)
