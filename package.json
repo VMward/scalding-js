@@ -1,6 +1,6 @@
 {
-  "name": "catscript",
-  "version": "1.0.0",
+  "name": "scalding",
+  "version": "1.0.1",
   "description": "Small library and toolkit for functional node programming for beginners.",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/social-learning/catscript.git"
+    "url": "git+https://github.com/social-learning/scalding.git"
   },
   "keywords": [],
   "author": "social-learning",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/social-learning/catscript/issues"
+    "url": "https://github.com/social-learning/scalding/issues"
   },
-  "homepage": "https://github.com/social-learning/catscript#readme",
+  "homepage": "https://github.com/social-learning/scalding#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0"
   },
