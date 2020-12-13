@@ -9,5 +9,9 @@ Scalding - functional data processing in JS based off Scala & Hadoop
 # Functional Programming
 Functional programming is a paradigm that originates from category theory. It is the process where we build software composed of *pure functions*. This means we do not have shared states or mutable data thereby reducing side effects.
 
+## Imperative vs Declartive Programming
+
+### Example: 
+
 # What is scalding?
 
