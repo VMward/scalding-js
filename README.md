@@ -1,4 +1,4 @@
-# scalding
+# Scalding
 Scalding - functional data processing in JS based off Scala & Hadoop
 
 [![npm Version](https://img.shields.io/badge/npm-1.0.0-3775A9?style=plastic&logo=npm)](https://www.npmjs.com/package/scalding)
@@ -12,6 +12,11 @@ Functional programming is a paradigm that originates from category theory. It is
 ## Imperative vs Declartive Programming
 
 ### Example: 
+
+## Key Features
+
+### Pipe
+Piping is the process that combining any number of functions. 
 
 # What is scalding?
 
